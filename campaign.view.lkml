@@ -1,5 +1,5 @@
 view: _campaign {
-  sql_table_name: salesforce.sf_campaign ;;
+  sql_table_name: test.campaign ;;
   # dimensions #
 
   dimension: id {
