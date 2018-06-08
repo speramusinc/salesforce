@@ -1,5 +1,5 @@
 view: _account {
-  sql_table_name: salesforce.sf_account ;;
+  sql_table_name: test.account ;;
   # dimensions #
 
   dimension: id {

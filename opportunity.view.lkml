@@ -1,5 +1,5 @@
 view: _opportunity {
-  sql_table_name: salesforce.sf_opportunity ;;
+  sql_table_name: test.opportunity ;;
   # dimensions #
 
   dimension: id {
